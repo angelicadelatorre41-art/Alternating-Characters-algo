@@ -1,1 +1,1 @@
-# Alternating-Characters-algo
+# Alternating-Characters-algo The function counts how many adjacent characters are the same and need to be deleted to make the string alternate between 'A' and 'B'. Each repeated consecutive character adds one to the deletion count.
